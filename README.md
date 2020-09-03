@@ -1,0 +1,1 @@
+# gitlab-stale-branches
