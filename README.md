@@ -6,7 +6,7 @@ python
 
 ## Setup
 
-1. Run `cp default_config.json config.json`
+1. Run `cp default-config.json config.json`
 2. Edit `config.json` to add GitLab url, api token
 3. Add projects to `config.json` by adding an object to the `projects` array with `id` (id of repo in GitLab - can be found in API request) and `label` which is whatever you want printed out above the results.
 
