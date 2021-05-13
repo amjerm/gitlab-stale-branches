@@ -1,0 +1,11 @@
+{
+  "url": "http://gitlab.example.com",
+  "privateToken": "123abc",
+  "apiVersion": "3",
+  "projects": [
+    {
+      "id": "1",
+      "label": "Example"
+    }
+  ]
+}
